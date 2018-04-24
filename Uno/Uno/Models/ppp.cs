@@ -12,6 +12,7 @@ namespace Uno.Models
         public int numero { get; set; }
         public int telefono { get; set; }
         public int Codigopostal { get; set; }
+        public int telefono2 { get; set; }
 
     }
 }
