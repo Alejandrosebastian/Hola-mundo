@@ -14,6 +14,7 @@ namespace Uno.Models
         public int Codigopostal { get; set; }
         public int telefono2 { get; set; }
         public int telefono3 { get; set; }
+        public int telefono5 { get; set; }
 
     }
 }
