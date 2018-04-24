@@ -16,6 +16,7 @@ namespace Uno.Models
         public int telefono3 { get; set; }
         public int telefono5 { get; set; }
         public int telefono6 { get; set; }
+        
 
     }
 }
