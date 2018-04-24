@@ -13,6 +13,7 @@ namespace Uno.Models
         public int telefono { get; set; }
         public int Codigopostal { get; set; }
         public int telefono2 { get; set; }
+        public int telefono3 { get; set; }
 
     }
 }
